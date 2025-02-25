@@ -1,5 +1,5 @@
 # Re-MakePlace
-Re-MakePlace is a fork of the original MakePlace being upkept by a team of volunteers. This version currently works with the default online functionality, but this could change at any time - always save copies of your work locally as well.
+Re-MakePlace is a fork of the original MakePlace application being upkept by a team of volunteers. This version currently works with the default online functionality, but this could change at any time - always save copies of your work locally as well.
 
 ### MakePlace is a standalone tool to preview, edit and share housing layouts for FFXIV.
 - Create an entire layout, instead of the in-game previewing of individual items
@@ -33,6 +33,7 @@ Re-MakePlace is a fork of the original MakePlace being upkept by a team of volun
 
 Available in English, German, French, Japanese and Chinese    
 Translation Credits: Shichi (German), Skiz (German), Kurtys (French), healng (Japanese), Ernos (Chinese)
+MakePlace created by Jawslouis
 
 # System Requirements
 > [!IMPORTANT]  
