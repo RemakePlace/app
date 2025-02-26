@@ -1,4 +1,4 @@
-# Re-MakePlace
+# Re-MakePlace [![GitHub release](https://img.shields.io/github/release/RemakePlace/App.svg)](https://GitHub.com/RemakePlace/App/releases/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NXjxuHPMpG)
 Re-MakePlace is a fork of the original MakePlace application being upkept by a team of volunteers. This version currently works with the default online functionality, but this could change at any time - always save copies of your work locally as well.
 
 ### MakePlace is a standalone tool to preview, edit and share housing layouts for FFXIV.
