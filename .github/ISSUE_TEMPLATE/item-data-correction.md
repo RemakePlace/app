@@ -2,7 +2,7 @@
 name: Item Data Correction
 about: Item snapping or float height different than expected?
 title: "[ITEM DATA]"
-labels: new
+labels: item data, new
 assignees: ''
 
 ---
