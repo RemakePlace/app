@@ -1,35 +1,19 @@
-# Re-MakePlace [![GitHub release](https://img.shields.io/github/release/RemakePlace/App.svg)](https://GitHub.com/RemakePlace/App/releases/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f2VAqXKWUw)
-Re-MakePlace is a fork of the original MakePlace application being upkept by a team of volunteers. This version does not currently support online functionality.
+# Re:MakePlace [![GitHub release](https://img.shields.io/github/release/RemakePlace/App.svg)](https://GitHub.com/RemakePlace/App/releases/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f2VAqXKWUw)
+Re:MakePlace is a standalone tool to preview, edit and share housing layouts for FFXIV. This is a fork of the original MakePlace application being upkept by a team of volunteers. Download also available on itch.io at: https://remakeplace.itch.io/remakeplace
 
-### MakePlace is a standalone tool to preview, edit and share housing layouts for FFXIV.
-- Create an entire layout, instead of the in-game previewing of individual items
-- Export and share your design
-- Get started on making your dream home!
+> [!CAUTION]
+> **Re:MakePlace does not support online functionality. We do not own or have access to any online features from the original project.**
 
-#### Current Features
+### Current Features
 - Work on any housing type
-  - All districts - Mist, Lavender Beds, Goblet, Shirogane and Empyreum
-  - All sizes - Apartment, Small, Medium and Large
-  - Interiors and exteriors both available
-- Save and load layouts from file
-  - Transfer layouts to/from the game using the MakePlace plugin
+  - All districts, sizes, and exteriors available
+- Save and load layouts from file using the Re:MakePlace FFXIV Plugin
   - A furniture shopping list is exported alongside every save
-- Change any interior or exterior fixture
-  - Select designs for ceiling lights, doors, fences, exterior walls, and more!
-- Drag-and-drop furniture from a list
-  - Over 1600 furniture items available
-  - Search by furniture name, or select from furniture category
-- Freely modify furniture items
-  - Move and rotate objects via drag-click or UI input
-  - Change color for dyeable furniture
-  - Undo/Redo any modification
-  - Select and modify furniture as a group
-- Create your own custom design using multiple furniture
-  - Conveniently copy and place custom designs
-  - Import/export as a file for easy sharing
 - Options to follow game behavior
   - Minimum float distance
   - Use only in-game dye colors
+
+### [Check out this document for information on using Re:MakePlace](https://docs.google.com/document/d/e/2PACX-1vQXzVTUUzHqT5JD0lJG-FGpmxVuAFqcqlg85WyMoofLTNPSYshYID2WElrmOr-tJvxwPuhcstqSc4JG/pub)
 
 Available in English, German, French, Japanese and Chinese    
 Translation Credits: Shichi (German), Skiz (German), Kurtys (French), healng (Japanese), Ernos (Chinese)
